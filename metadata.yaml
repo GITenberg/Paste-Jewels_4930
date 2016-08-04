@@ -1,0 +1,38 @@
+_repo: Paste-Jewels_4930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: They were very young, and possibly too amiable. Thaddeus was but twenty-four
+  and Bessie twenty-two when they twain, made one, walked down the middle aisle of
+  St. Peter's together. Everybody remarked how amiable she looked even then; not that
+  a bride on her way out of church should look unamiable, of course, but we all know
+  how brides do look, as a rule, on such occasions - looks difficult of analysis,
+  but strangely suggestive of determined timidity, if there can be such a quality
+  expressed in the human face. It is the natural expression of one who knows that
+  she has taken the most.
+gutenberg_issued: '2004-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4930'
+  lccn: '06006122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Married people -- United States -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Domestic fiction, American'
+- GITenberg
+tableOfContents: The emancipation of Thaddeus -- Mr. Bradley's jewel -- Unexpected
+  pomp at the Perkins's -- An object-lesson -- The Christmas gift of Thaddeus -- A
+  strange banquet -- Jane.
+title: Paste Jewels
+url: http://www.gutenberg.org/ebooks/4930
