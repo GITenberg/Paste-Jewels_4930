@@ -1,5 +1,8 @@
 _repo: Paste-Jewels_4930
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bangs, John Kendrick
@@ -16,6 +19,8 @@ description: They were very young, and possibly too amiable. Thaddeus was but tw
   but strangely suggestive of determined timidity, if there can be such a quality
   expressed in the human face. It is the natural expression of one who knows that
   she has taken the most.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4930#Paste-Jewels
 gutenberg_issued: '2004-11-20'
 gutenberg_type: Text
 identifiers:
